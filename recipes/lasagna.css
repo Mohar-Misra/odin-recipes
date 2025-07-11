@@ -1,0 +1,24 @@
+h1,h3,p {
+    text-align: center;
+}
+
+.ingredient {
+    text-align: center;
+    padding: 10px;
+    margin: 10px 600px;
+}
+
+.steps {
+    text-align: center;
+    padding: 10px;
+    margin: 1px 600px;
+}
+
+.image {
+    margin: 20px 430px;
+}
+
+a {
+    text-align: center;
+    display:  block;
+}
